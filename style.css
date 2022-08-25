@@ -1,0 +1,40 @@
+body {
+    margin-top: 40px;
+}
+.container {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    max-width: 575px;
+    height: 385px;
+    background: #182448;
+    color: #eee;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.score {
+    width: 117px;
+    height: 120px;
+    background: #080001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+h2 {
+    font-size: 3em;
+    color: orangered;
+    padding: 10px; 
+    
+    
+}
+.points {
+    margin-top: 30px;
+    margin-right: 4px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #988bd8;
+    display: inline-block;
+}
